@@ -1,15 +1,15 @@
-### Hi there 👋, my name is Fares Tarik (TIGER)
-#### Full-Stack Web Developer & Instructor
+### Hi there 👋, my name is Fares Tarik 
+#### Senior Software Engineer
 ![Full-Stack Web Developer & Instructor](https://i.ibb.co/1ZsC8jW/Whats-App-Image-2022-07-24-at-9-13-35-AM.jpg)
 
-I am a full-stack web developer for more than 6 years ... and Instructor for more than 1 year .. Team Leader at TIGERTEAM
+I am a full-stack web developer for more than 9 years ... and Instructor for more than 4 year .. Founder OF EGYTIGERS
 
 Skills: PHP / JavaScript / HTML / CSS / Python / Laravel / SQL
 
 - 🌱 I’m currently learning AI & Machine Learning 
 - 👯 I’m looking to collaborate on Challenged Apps 
 - 💬 Ask me about Building Web Applications  
-- 📫 How to reach me: powertiger563@gmail.com 
+- 📫 How to reach me: farestarikhassan7@gmail.com
 - ⚡ Fun fact: Otaku :-) 
 
 
